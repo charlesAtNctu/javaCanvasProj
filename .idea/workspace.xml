@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d58660e5-b2d5-4a54-bbbd-14a0b22fcd4b" name="Default" comment="" />
+    <list default="true" id="d58660e5-b2d5-4a54-bbbd-14a0b22fcd4b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCanvasProj/edu/wwu/cs/java/painting/canvas/Canvas.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCanvasProj/edu/wwu/cs/java/painting/shape/impl/shape/Circle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCanvasProj/edu/wwu/cs/java/painting/shape/impl/character/O.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCanvasProj/edu/wwu/cs/java/painting/PaintingApplication.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCanvasProj/edu/wwu/cs/java/painting/shape/impl/shape/Point.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCanvasProj/edu/wwu/cs/java/painting/shape/impl/shape/Rectangle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCanvasProj/edu/wwu/cs/java/painting/shape/Shape.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaCanvasProj/edu/wwu/cs/java/painting/shape/impl/shape/Square.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/wwu/cs/java/painting/canvas/Canvas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/wwu/cs/java/painting/shape/impl/shape/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaCanvasProj.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/wwu/cs/java/painting/shape/impl/character/O.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/wwu/cs/java/painting/PaintingApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/wwu/cs/java/painting/shape/impl/shape/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/wwu/cs/java/painting/shape/impl/shape/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/wwu/cs/java/painting/shape/Shape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/wwu/cs/java/painting/shape/impl/shape/Square.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="JavaCanvasProj.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -450,8 +477,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3235725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3286908" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3235725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3286908" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
