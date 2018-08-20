@@ -40,7 +40,7 @@ public class Canvas {
                     }
                 }
             }
-            System.out.println();
+            //System.out.println();
         }
     }
 
